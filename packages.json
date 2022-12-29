@@ -1,0 +1,20 @@
+{
+  "name": "SwiftNest",
+  "author": {
+    "name": "David Taylor"
+  },
+  "packages": [
+    {
+      "url": "https://github.com/dtaylor1701/Goose.git" 
+    },
+    {
+      "url": "https://github.com/dtaylor1701/Weaver.git"
+    },
+    {
+      "url": "https://github.com/dtaylor1701/Nuthatch.git"
+    },
+    {
+      "url": "https://github.com/dtaylor1701/Pigeon.git"
+    }
+  ]
+}
