@@ -5,10 +5,10 @@
   },
   "packages": [
     {
-      "url": "https://github.com/dtaylor1701/Goose.git" 
+      "url": "https://github.com/dtaylor1701/BlueJay.git" 
     },
     {
-      "url": "https://github.com/dtaylor1701/Weaver.git"
+      "url": "https://github.com/dtaylor1701/Goose.git" 
     },
     {
       "url": "https://github.com/dtaylor1701/Nuthatch.git"
@@ -18,6 +18,12 @@
     },
     {
       "url": "https://github.com/dtaylor1701/Parakeet.git"
+    },
+    {
+      "url": "https://github.com/dtaylor1701/Twigs.git"
+    },
+    {
+      "url": "https://github.com/dtaylor1701/Weaver.git"
     }
   ]
 }
